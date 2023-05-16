@@ -41,7 +41,7 @@ public class Reverse {
 	        System.out.println("Output string: " + revStr);
 	        
 	        System.out.println("Test Merge Updated in Eclipse");
-		    System.out.println("Test Test Updating code in Github")
+		    System.out.println("Test Test Updating code in Github");
 	    }
 	   
 	}
