@@ -39,8 +39,10 @@ public class Reverse {
 	        String revStr = new String(charArray);
 	 
 	        System.out.println("Output string: " + revStr);
+	        
+	        System.out.println("Test Merge");
 	    }
-	
+	   
 	}
 
 
